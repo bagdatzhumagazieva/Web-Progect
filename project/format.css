@@ -1,0 +1,56 @@
+.top{
+    width: 100%;
+    height: 30px;
+    background-color: brown;
+    margin-top: 35px;
+}
+.header{
+    margin-top: 25px;
+    margin-left: 0%;
+
+    
+}
+.diamond{
+    width: 450px;
+    height: 30px;
+    margin-left: 200px;
+    margin-top: 24px;
+    border-radius: 5px;
+    padding: 5px;     
+}
+.img-{
+    margin-left: 5px;
+    margin-top: 0px;
+}
+.word-click{
+    font-size: 40px;
+     color: brown;
+     margin-top: 40px;
+     font-family: sans-serif;
+     font-weight: bold;
+}
+#border{
+    color: black;
+    border-style: solid;
+    border-width: 1px;
+    column-count: 3;
+    background-color: white;
+}
+body{
+    background-size: 100% 750px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+.click{
+    margin-left: 0px;
+    width: 130px;
+    margin-right: 0%;
+}
+h1{
+    color:whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 300%;
+    padding-left: 100px;
+}
+
