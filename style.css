@@ -1,0 +1,104 @@
+body{
+    background-image: url(images/ashim-d-silva-89336-unsplash.jpg);
+    width: 70px;
+    height: 100%;
+background-size: 100% 750px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+.click{
+margin-left: 0px;
+width: 130px;
+margin-right: 0%;
+}
+
+h1{
+    color:#cecece;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 300%;
+    padding-left: 80px;
+    margin-left: -2cm;
+}
+.search{
+    width: 450px;
+    height: 30px;
+    margin-left: 150px;
+    background-color: #cecece;
+    border-radius: 5px;
+    padding: 5px;  
+    font-size: 17px;  
+}
+p{
+    font-size: 51px;
+    color: black;
+    margin-left: 80px;
+}
+
+
+.first{
+    
+    background-color: #cecece;
+    margin-top: 40px;
+    margin-left: 70px;
+   width: 700px;
+   height: 205;
+   border-radius: 8px;
+}
+.second{
+    background-color: #cecece;
+    margin-top: 40px;
+    margin-left: 70px;
+   width: 700px;
+   height: 205;
+   border-radius: 8px;
+}
+.third{
+    background-color: #cecece;
+    margin-top: 40px;
+    margin-left: 70px;
+   width: 700px;
+   height: 205;
+   border-radius: 8px;
+}
+.fourth{
+    background-color: #cecece;
+    margin-top: 40px;
+    margin-left: 70px;
+   width: 700px;
+   height: 205;
+   border-radius: 8px;
+}
+.five{
+    background-color: #cecece;
+    margin-top: 40px;
+    margin-left: 70px;
+   width: 700px;
+   height: 205;
+   border-radius: 8px;
+}
+ .pp{
+   font-size: 18px;
+}
+#num{
+    border-radius: 8px;
+    height: 25px;
+    width: 40px;
+}
+#buyit{
+    width: 130px;
+    height: 25px;
+    background-color: #239B56;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+}
+.atc{
+    width: 130px;
+    height: 25px;
+    background-color: #e67300;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+}
+
