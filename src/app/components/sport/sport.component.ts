@@ -1,26 +1,27 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-electronics',
-  templateUrl: './electronics.component.html',
-  styleUrls: ['./electronics.component.css']
+  selector: 'app-sport',
+  templateUrl: './sport.component.html',
+  styleUrls: ['./sport.component.css']
 })
-export class ElectronicsComponent implements OnInit {
+export class SportComponent implements OnInit {
+
   name:String;
   price:number;
   model:String;
-  color:String;
+  sizes:number[];
   isEdit:boolean;
   isEdit2:boolean;
   isEdit3:boolean;
+
   constructor() { }
 
   ngOnInit() {
-    
-    this.name = "Apple MacBook Pro 13 Intel Core i5 2300";
-    this.model = "Apple";
-    this.price = 650000;
-    this.color = "silver black darkblue";
+    this.name = "Спортивный костюм";
+    this.model = "Nike";
+    this.price = 22000;
+    this.sizes = [42, 44, 46, 48];
   }
   showEdit(){
     this.isEdit = !this.isEdit;
@@ -37,4 +38,5 @@ export class ElectronicsComponent implements OnInit {
     this.isEdit = false;
     this.isEdit2 = false;
   }
+
 }
